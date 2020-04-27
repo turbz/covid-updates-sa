@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/covid-updates-sa/static/css/main.781e8808.chunk.css",
+    "main.js": "/covid-updates-sa/static/js/main.e680cc58.chunk.js",
+    "main.js.map": "/covid-updates-sa/static/js/main.e680cc58.chunk.js.map",
+    "runtime-main.js": "/covid-updates-sa/static/js/runtime-main.c987dd76.js",
+    "runtime-main.js.map": "/covid-updates-sa/static/js/runtime-main.c987dd76.js.map",
+    "static/js/2.115a8be5.chunk.js": "/covid-updates-sa/static/js/2.115a8be5.chunk.js",
+    "static/js/2.115a8be5.chunk.js.map": "/covid-updates-sa/static/js/2.115a8be5.chunk.js.map",
+    "index.html": "/covid-updates-sa/index.html",
+    "precache-manifest.acd348e3785c9e1cd3feda9fc181fdfd.js": "/covid-updates-sa/precache-manifest.acd348e3785c9e1cd3feda9fc181fdfd.js",
+    "service-worker.js": "/covid-updates-sa/service-worker.js",
+    "static/css/main.781e8808.chunk.css.map": "/covid-updates-sa/static/css/main.781e8808.chunk.css.map",
+    "static/js/2.115a8be5.chunk.js.LICENSE.txt": "/covid-updates-sa/static/js/2.115a8be5.chunk.js.LICENSE.txt",
+    "static/media/graph.svg": "/covid-updates-sa/static/media/graph.72aa0b5e.svg",
+    "static/media/samap.svg": "/covid-updates-sa/static/media/samap.6b374ddb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c987dd76.js",
+    "static/js/2.115a8be5.chunk.js",
+    "static/css/main.781e8808.chunk.css",
+    "static/js/main.e680cc58.chunk.js"
+  ]
+}
