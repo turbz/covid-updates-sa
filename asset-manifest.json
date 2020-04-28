@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/covid-updates-sa/static/css/main.6bc6c2aa.chunk.css",
-    "main.js": "/covid-updates-sa/static/js/main.f9044db8.chunk.js",
-    "main.js.map": "/covid-updates-sa/static/js/main.f9044db8.chunk.js.map",
+    "main.css": "/covid-updates-sa/static/css/main.ea6c7fa8.chunk.css",
+    "main.js": "/covid-updates-sa/static/js/main.dc2a24df.chunk.js",
+    "main.js.map": "/covid-updates-sa/static/js/main.dc2a24df.chunk.js.map",
     "runtime-main.js": "/covid-updates-sa/static/js/runtime-main.c987dd76.js",
     "runtime-main.js.map": "/covid-updates-sa/static/js/runtime-main.c987dd76.js.map",
-    "static/js/2.59336225.chunk.js": "/covid-updates-sa/static/js/2.59336225.chunk.js",
-    "static/js/2.59336225.chunk.js.map": "/covid-updates-sa/static/js/2.59336225.chunk.js.map",
+    "static/js/2.03e8299d.chunk.js": "/covid-updates-sa/static/js/2.03e8299d.chunk.js",
+    "static/js/2.03e8299d.chunk.js.map": "/covid-updates-sa/static/js/2.03e8299d.chunk.js.map",
     "index.html": "/covid-updates-sa/index.html",
-    "precache-manifest.c4862a7c507922e7ab15b2194be7d116.js": "/covid-updates-sa/precache-manifest.c4862a7c507922e7ab15b2194be7d116.js",
+    "precache-manifest.f8f6b29e252bbe7778b8c1504f853b09.js": "/covid-updates-sa/precache-manifest.f8f6b29e252bbe7778b8c1504f853b09.js",
     "service-worker.js": "/covid-updates-sa/service-worker.js",
-    "static/css/main.6bc6c2aa.chunk.css.map": "/covid-updates-sa/static/css/main.6bc6c2aa.chunk.css.map",
-    "static/js/2.59336225.chunk.js.LICENSE.txt": "/covid-updates-sa/static/js/2.59336225.chunk.js.LICENSE.txt",
+    "static/css/main.ea6c7fa8.chunk.css.map": "/covid-updates-sa/static/css/main.ea6c7fa8.chunk.css.map",
+    "static/js/2.03e8299d.chunk.js.LICENSE.txt": "/covid-updates-sa/static/js/2.03e8299d.chunk.js.LICENSE.txt",
     "static/media/graph.svg": "/covid-updates-sa/static/media/graph.72aa0b5e.svg",
     "static/media/logo.jpg": "/covid-updates-sa/static/media/logo.833b6f8d.jpg",
     "static/media/world-map.svg": "/covid-updates-sa/static/media/world-map.9d33950f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c987dd76.js",
-    "static/js/2.59336225.chunk.js",
-    "static/css/main.6bc6c2aa.chunk.css",
-    "static/js/main.f9044db8.chunk.js"
+    "static/js/2.03e8299d.chunk.js",
+    "static/css/main.ea6c7fa8.chunk.css",
+    "static/js/main.dc2a24df.chunk.js"
   ]
 }
