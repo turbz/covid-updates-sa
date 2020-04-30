@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/covid-updates-sa/static/css/main.06395d9f.chunk.css",
-    "main.js": "/covid-updates-sa/static/js/main.88ceb8d8.chunk.js",
-    "main.js.map": "/covid-updates-sa/static/js/main.88ceb8d8.chunk.js.map",
+    "main.css": "/covid-updates-sa/static/css/main.a9c2482f.chunk.css",
+    "main.js": "/covid-updates-sa/static/js/main.e00f41a6.chunk.js",
+    "main.js.map": "/covid-updates-sa/static/js/main.e00f41a6.chunk.js.map",
     "runtime-main.js": "/covid-updates-sa/static/js/runtime-main.c987dd76.js",
     "runtime-main.js.map": "/covid-updates-sa/static/js/runtime-main.c987dd76.js.map",
     "static/css/2.ab8a0683.chunk.css": "/covid-updates-sa/static/css/2.ab8a0683.chunk.css",
     "static/js/2.22f71b2f.chunk.js": "/covid-updates-sa/static/js/2.22f71b2f.chunk.js",
     "static/js/2.22f71b2f.chunk.js.map": "/covid-updates-sa/static/js/2.22f71b2f.chunk.js.map",
     "index.html": "/covid-updates-sa/index.html",
-    "precache-manifest.1d8530b67ec7d12b61a89281541cab93.js": "/covid-updates-sa/precache-manifest.1d8530b67ec7d12b61a89281541cab93.js",
+    "precache-manifest.cf2c3dccdfff9bf09f99beb4442bb463.js": "/covid-updates-sa/precache-manifest.cf2c3dccdfff9bf09f99beb4442bb463.js",
     "service-worker.js": "/covid-updates-sa/service-worker.js",
     "static/css/2.ab8a0683.chunk.css.map": "/covid-updates-sa/static/css/2.ab8a0683.chunk.css.map",
-    "static/css/main.06395d9f.chunk.css.map": "/covid-updates-sa/static/css/main.06395d9f.chunk.css.map",
+    "static/css/main.a9c2482f.chunk.css.map": "/covid-updates-sa/static/css/main.a9c2482f.chunk.css.map",
     "static/js/2.22f71b2f.chunk.js.LICENSE.txt": "/covid-updates-sa/static/js/2.22f71b2f.chunk.js.LICENSE.txt",
     "static/media/down-arrow.svg": "/covid-updates-sa/static/media/down-arrow.a39be97c.svg",
     "static/media/graph.svg": "/covid-updates-sa/static/media/graph.72aa0b5e.svg",
     "static/media/logo.jpg": "/covid-updates-sa/static/media/logo.833b6f8d.jpg",
-    "static/media/southafrica.svg": "/covid-updates-sa/static/media/southafrica.f9543a00.svg",
+    "static/media/southafrica.png": "/covid-updates-sa/static/media/southafrica.52c2f26e.png",
     "static/media/up-arrow.svg": "/covid-updates-sa/static/media/up-arrow.b8f1b1dc.svg",
     "static/media/world-map.svg": "/covid-updates-sa/static/media/world-map.9d33950f.svg"
   },
@@ -25,7 +25,7 @@
     "static/js/runtime-main.c987dd76.js",
     "static/css/2.ab8a0683.chunk.css",
     "static/js/2.22f71b2f.chunk.js",
-    "static/css/main.06395d9f.chunk.css",
-    "static/js/main.88ceb8d8.chunk.js"
+    "static/css/main.a9c2482f.chunk.css",
+    "static/js/main.e00f41a6.chunk.js"
   ]
 }
